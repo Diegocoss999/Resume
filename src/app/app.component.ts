@@ -10,7 +10,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'online-cv';
+  title = 'Resume';
 
   // constructor(@Inject(DOCUMENT) private document: Document) {
   // }
